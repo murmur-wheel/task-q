@@ -1,9 +1,9 @@
 # task-q
 
 - [x] add task
-- [ ] del task
-- [ ] update task stat
-- [ ] push task result
-- [ ] pull task result
-- [ ] select task
-- [ ] redo expired task
+- [x] del task
+- [x] update task stat
+- [x] push task result
+- [x] pull task result
+- [x] select task
+- [x] redo expired task
