@@ -1,5 +1,9 @@
 # task-q
 
+a light weight task queue
+
+## features
+
 - [x] add task
 - [x] del task
 - [x] update task stat
